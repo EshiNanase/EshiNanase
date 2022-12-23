@@ -1,6 +1,6 @@
 # Hi there ❤️
 
-I'm Nikita!\
+I'm Sasha!\
 SPBU University SE'24
 
 **GitHub stats**
