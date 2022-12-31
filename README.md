@@ -13,4 +13,4 @@ SPBU University SE'24
 [![VKontakte Badge](https://img.shields.io/badge/-alksndrzln-0077ff?style=flat-square&labelColor=0077ff&logo=vk&logoColor=white&link=https://vk.com/alksndrzln)](https://vk.com/alksndrzln)
 
 **GitHub stats**
-<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=eshinanase&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="eshinanase" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshinanase&hide=javascript,html,typescript" alt="eshinanase" /></p>
+<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=eshinanase&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="eshinanase" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshinanase&theme=github_dark&hide=javascript,html,typescript" alt="eshinanase" /></p>
