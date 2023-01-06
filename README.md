@@ -11,7 +11,7 @@ SPBU University SE'24
 
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150592066-edb00215-4cc3-4da7-8ee9-059160046907.png"></code>](https://www.postgresql.org)
-[<code><img height="30" src="https://w7.pngwing.com/pngs/757/773/png-transparent-celery-python-node-js-task-celery-miscellaneous-rectangle-grass.png"></code>](https://github.com/celery/celery)
+[<code><img height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Celery_logo.png/120px-Celery_logo.png"></code>](https://github.com/celery/celery)
 [<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>](https://redis.io)
 [<code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/01/Docker-Logo-White-RGB_Horizontal-730x189-1.png"></code>](https://www.docker.com)
 
