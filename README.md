@@ -9,7 +9,6 @@ SPBU University SE'24
 
 **Languages and Tools**  
 
-[<code><img height="30" src="https://user-images.githubusercontent.com/34314541/184476883-24747fb9-801d-41b1-91bb-4b3e161a5cec.png"></code>](https://go.dev)
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150592066-edb00215-4cc3-4da7-8ee9-059160046907.png"></code>](https://www.postgresql.org)
 [<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>](https://redis.io)
