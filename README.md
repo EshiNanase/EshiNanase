@@ -25,4 +25,4 @@ SPBU University SE'24
 
 
 **GitHub stats**
-<p align="center"><img height=180 alt="Sasha Nanashi's Github Stats" src="https://github-readme-stats-1kc9.vercel.app/api?username=EshiNanase&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&layout=compact" alt="eshinanase" /> <img height=180 src="https://github-readme-stats-1kc9.vercel.app/api/top-langs/?username=EshiNanase&count_private=true&langs_count=10&theme=github_dark&layout=compact&include_all_commits=true&hide=HTML,CSS,TypeScript,Kotlin" alt="eshinanase" /></p>
+<p align="center"><img height=180 alt="Sasha Nanashi's Github Stats" src="https://github-readme-stats-wbqj.vercel.app/api?username=EshiNanase&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&layout=compact" alt="eshinanase" /> <img height=180 src="https://github-readme-stats-wbqj.vercel.app/api/top-langs/?username=EshiNanase&count_private=true&langs_count=10&theme=github_dark&layout=compact&include_all_commits=true&hide=HTML,CSS,TypeScript,Kotlin" alt="eshinanase" /></p>
